@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Akash 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Java+Full+Stack+Developer;Web+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Java+Full+Stack+Developer+and+Web+Developer)](https://git.io/typing-svg)
 
 ---
 
@@ -12,13 +12,13 @@ With a strong background in coding and mathematics, I specialize in Front-end De
 
 ## 🎯 Current Focus
 
-- 👯 Looking to collaborate on: **Open Source projects related to Web Development or Java Ecosystem**
+- 👯 Looking to collaborate on: **Open Source projects related to Web Development or Java Spring Boot**
 - 💬 Ask me about: **Java, Spring Boot, React, RESTful APIs, and Database Design** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact: **I love solving complex coding challenges with a cup of coffee and a good playlist.** <!-- TODO: Add a fun fact -->
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🧑‍💻 Technology 
 
 My toolkit is constantly evolving, but here are some of the technologies I'm most comfortable with:
 
@@ -63,21 +63,6 @@ My toolkit is constantly evolving, but here are some of the technologies I'm mos
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-A2004&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-A2004&theme=tokyonight&hide_border=true"/>
-</p>
-
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/Akash-A2004" alt="Contribution Calendar" width="100%"/>
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section -->
-- 🗣️ Commented on [#1 in Akash-A2004/Portfolio](https://github.com/Akash-A2004/Portfolio/issues/1#issuecomment-1869894412)
-- 🎉 Merged pull request [#1 in Akash-A2004/Portfolio](https://github.com/Akash-A2004/Portfolio/pull/1)
-- 🚀 Created repository [Akash-A2004/Portfolio](https://github.com/Akash-A2004/Portfolio)
-<!--END_SECTION:activity-->
 ---
 
 ## 🌐 Let's Connect & Collaborate
@@ -98,12 +83,6 @@ My toolkit is constantly evolving, but here are some of the technologies I'm mos
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER) <!-- TODO: Add your Twitter handle -->
 
-</div>
-
----
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
 </div>
 
 ---
