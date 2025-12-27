@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Akash 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Java+Full+Stack+Developer+and+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Java+Full+Stack+Developer;Website+Developer)](https://git.io/typing-svg)
 
 ---
 
